@@ -1,1 +1,0 @@
-print(int('hello world'))
